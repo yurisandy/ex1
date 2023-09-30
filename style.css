@@ -1,0 +1,18 @@
+#cabecalho{
+    background-color: bisque;
+    height: 60px;
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.home{
+    display: flex;
+    width: 85%;
+}
+.menu{
+    display: flex;
+    width: 15%;
+    flex-direction: row-reverse;
+    padding: 10px 0px 10px 0px; 
+    justify-content: space-evenly;
+}
